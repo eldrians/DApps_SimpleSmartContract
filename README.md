@@ -1,4 +1,4 @@
-# Simple Smart Contract
+# Simple Smart Contract (DApps)
 
 Aplikasi ini bernama FirstContract merupangan Web3 Aplikasi yang dibangun dengan Etherium sebagai perangkat lunak terdesetralisasi yang menerapkan sistem blockchain didalamnya, aplikasi ini dibangun menggunakan :
 - Solidity, programming languages untuk membangun smart contract
